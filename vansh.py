@@ -289,7 +289,7 @@ async def recipe(ctx):
 
 
 
-SeriousX.run("ODM0NzYxMTQwMDc1NzU3NTg5.YIFl5A.-sMuN_D88Pp4YXRWcrcQ_9CJvMU")
+SeriousX.run("")
 #commands having error
 '''@SeriousX.event
 async def on_member_join( member : discord.Member):
